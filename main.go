@@ -14,5 +14,7 @@ package main 	//contains all content of the program	It is compulsory to write
 import "fmt" 
 
 func main() {
-	fmt.Println("Hello")
+	fmt.Println("Jai Hind!!")
+	fmt.Println("Welcome to UdChalo")
+	fmt.Println("How May I help you?")
 }
