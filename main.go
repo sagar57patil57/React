@@ -15,6 +15,6 @@ import "fmt"
 
 func main() {
 	fmt.Println("Jai Hind!!")
-	fmt.Println("Welcome to UdChalo")
-	fmt.Println("How May I help you?")
+	fmt.Println("Hello")
+	fmt.Println("Are you available?")
 }
